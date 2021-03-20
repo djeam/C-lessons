@@ -1,0 +1,3 @@
+﻿  Program 2_10.cpp
+Project 2_3.obj : error LNK2005: _main already defined in Program 2_10.obj
+C:\Users\djose\source\repos\Project 2_3\Debug\Project 2_3.exe : fatal error LNK1169: one or more multiply defined symbols found
