@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\djose\source\repos\Project 13_2\Project 13_2\Source.cpp(7,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\djose\source\repos\Project 13_2\Project 13_2\Source.cpp(11,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\djose\source\repos\Project 13_2\Project 13_2\Source.cpp(15,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Project 13_2.vcxproj -> C:\Users\djose\source\repos\Project 13_2\Debug\Project 13_2.exe
