@@ -1,0 +1,9 @@
+﻿  Source1.cpp
+C:\Users\djose\source\repos\Project 8_5\Project 8_5\Source1.cpp(11,18): warning C4305:  'argument': truncation from 'double' to '_Ty'
+C:\Users\djose\source\repos\Project 8_5\Project 8_5\Source1.cpp(11,18): warning C4305:         with
+C:\Users\djose\source\repos\Project 8_5\Project 8_5\Source1.cpp(11,18): warning C4305:         [
+C:\Users\djose\source\repos\Project 8_5\Project 8_5\Source1.cpp(11,18): warning C4305:             _Ty=float
+C:\Users\djose\source\repos\Project 8_5\Project 8_5\Source1.cpp(11,18): warning C4305:         ]
+C:\Users\djose\source\repos\Project 8_5\Project 8_5\Source1.cpp(12,20): warning C4018:  '<': signed/unsigned mismatch
+Source1.obj : error LNK2005: _main already defined in Source.obj
+C:\Users\djose\source\repos\Project 8_5\Debug\Project 8_5.exe : fatal error LNK1169: one or more multiply defined symbols found
