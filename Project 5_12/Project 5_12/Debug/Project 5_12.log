@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+C:\Users\djose\source\repos\Project 5_12\Project 5_12\Source1.cpp(6,7): error C2059:  syntax error: ')'
+C:\Users\djose\source\repos\Project 5_12\Project 5_12\Source1.cpp(6,8): error C2143:  syntax error: missing ';' before '{'
+C:\Users\djose\source\repos\Project 5_12\Project 5_12\Source1.cpp(6,8): error C2447:  '{': missing function header (old-style formal list?)
