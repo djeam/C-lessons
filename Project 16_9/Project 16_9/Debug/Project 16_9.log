@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\djose\source\repos\Project 16_9\Project 16_9\Source.cpp(55,26): error C2248: 'vending_machine::inventory': cannot access private member declared in class 'vending_machine'
+C:\Users\djose\source\repos\Project 16_9\Project 16_9\Source.cpp(12): message : see declaration of 'vending_machine::inventory'
+C:\Users\djose\source\repos\Project 16_9\Project 16_9\Source.cpp(6): message : see declaration of 'vending_machine'
+C:\Users\djose\source\repos\Project 16_9\Project 16_9\Source.cpp(59,34): warning C4305: 'argument': truncation from 'double' to 'float'
